@@ -9,9 +9,9 @@ const table = {
 
 const API_ENDPOINT = 'https://opentdb.com/api.php?'
 
-// const url = ''
-// const tempUrl =
-//   'https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple'
+const url = ''
+const tempUrl =
+  'https://opentdb.com/api.php?amount=10&category=21&difficulty=easy&type=multiple'
 const AppContext = React.createContext()
 
 const AppProvider = ({ children }) => {
